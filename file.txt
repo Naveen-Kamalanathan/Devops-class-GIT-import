@@ -1,0 +1,3 @@
+Hello my first setup of Linux
+Testing is done
+
